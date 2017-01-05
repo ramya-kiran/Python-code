@@ -1,3 +1,6 @@
+#This program implements A star algorithm to find the shortest path(if one available) 
+# between two locations with x,y co-ordinates with Euclidean Distance computing the heutistics.
+
 # name : Ramya Rao
 # python verison: 2.7.12
 # e-mail address: ramrao@umail.iu.edu
